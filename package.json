@@ -1,0 +1,23 @@
+{
+  "name": "20-10vuivenhamayban",
+  "version": "1.0.0",
+  "description": "Sự thức giấc của Meow Meow - Ngày 20/10",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/son2k104/20-10vuivenhamayban.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/son2k104/20-10vuivenhamayban/issues"
+  },
+  "homepage": "https://github.com/son2k104/20-10vuivenhamayban#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
